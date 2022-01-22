@@ -12,7 +12,7 @@ return 0;
 
 } 
 
-float areaofrectangle(float l,float b) { 
+float area(int l,int b) { 
 
 System.out.print("area of rectangle ="+(l*b)+"\n"); 
 
